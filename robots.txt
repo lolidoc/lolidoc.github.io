@@ -4,4 +4,4 @@ Allow: /
 
 
 
-Sitemap: https://lolidoc.github.io/sitemap.xml
+Sitemap: https://lolidoc.github.io/sitemapx.xml
